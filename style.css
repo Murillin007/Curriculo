@@ -10,7 +10,15 @@ body{
     sans-serif;
   padding: 1em;
   margin: 0 auto;
-  max-width: 33em;
 
+}
+.div{
+    margin-left: auto;
+    margin:20px;
+    padding: 20px;
+}
+#top{
+    background-color: black;
+    color: white;
 }
 
